@@ -1,6 +1,6 @@
 [![](https://komarev.com/ghpvc/?username=akihironitta&color=green&label=visitors)](https://github.com/antonkomarev/github-profile-views-counter)  
 
-`whoami`
+## `whoami`
 - CS student
 - OSS contributor
 
