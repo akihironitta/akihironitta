@@ -7,9 +7,9 @@
 ## 🤗 Interests
 - Making contributions to ML/DL OSS projects in [PyTorch Ecosystem](https://pytorch.org/ecosystem/) - [PyTorch](https://github.com/pytorch/pytorch), [NumPyro](https://github.com/pyro-ppl/numpyro), [Pyro](https://github.com/pyro-ppl/pyro), [Optuna](https://github.com/optuna/optuna), [Detectron2](https://github.com/facebookresearch/detectron2), ...
 - Both theoretical and practical sides of:
-  - machine learning 🤖,
-  - Bayesian statistics 📈 and
-  - computer science 💻 in general. 
+  - 🤖 machine learning,
+  - 📈 Bayesian statistics and
+  - 💻 computer science in general. 
 
 ## 🤝 Contact
 - Twitter: [@aki_bayes](https://twitter.com/aki_bayes)
